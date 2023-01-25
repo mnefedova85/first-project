@@ -1,0 +1,14 @@
+.digits {
+    display: flex;
+    font-family: 'Inter', 'Arial', sans-serif;
+    font-style: normal;
+    color: #000000;
+    background: #FFFFFF;
+    align-items: center;
+    padding: 100px 0;
+    flex-direction: column;
+    margin: auto;
+    width: 100%;
+    position: relative;
+    justify-content: center;
+}

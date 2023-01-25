@@ -1,0 +1,11 @@
+.two-columns__paragraph {
+    display: flex;
+    position: absolute;
+    flex-direction: row;
+    line-height: 34px;
+    font-size: 24px;
+    font-style: normal;
+    position: relative;
+    flex: 0 1 auto;
+    float: left;
+}

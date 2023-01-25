@@ -1,0 +1,9 @@
+@import 'index.css';
+
+.logo-place-header {
+    position: absolute;
+    align-items: center;
+    color: #000000;
+    top: 30px;
+    left: 64px;
+}

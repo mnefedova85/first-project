@@ -1,0 +1,15 @@
+.kaufman {
+    display: flex;
+    font-family: 'Inter', 'Arial', sans-serif;
+    font-style: normal;
+    color: #FFFFFF;
+    background: #000000;
+    align-items: center;
+    padding: 90px 0;
+    flex-direction: column;
+    margin: auto;
+    width: 100%;
+    position: relative;
+    justify-content: center;
+    overflow: hidden;
+}

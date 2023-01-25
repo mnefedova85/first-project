@@ -1,0 +1,13 @@
+.techniques {
+    display: flex;
+    font-family: 'Inter', 'Arial', sans-serif;
+    font-style: normal;
+    color: #000000;
+    background: #FFFFFF;
+    align-items: center;
+    padding-top: 100px;
+    flex-direction: column;
+    margin: auto;
+    width: 80%;
+    position: relative;
+}

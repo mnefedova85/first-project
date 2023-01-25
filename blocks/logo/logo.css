@@ -1,0 +1,11 @@
+.logo {
+    display: flex;
+    font-family: 'Inter';
+    font-style: normal;
+    padding: 0;
+    margin: 0;
+    z-index: 100;
+    flex: none;
+    width: 228px;
+    height: 32px;
+}

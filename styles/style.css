@@ -1,0 +1,24 @@
+@font-face {
+  src: url(../fonts/Inter-Regular.ttf) format('truetype'), url(../fonts/Inter-Regular.woff), url(../fonts/Inter-Regular.woff2);
+  font-family: 'Inter';
+  font-weight: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.page {
+  min-width: 1100px;
+  /* мы ещё не умеем делать мобильную версию сайта, */
+  /* поэтому выше установлена минимальная ширина страницы */
+  max-width: 1600px;
+  /* выше установили ограничение по максимальной ширине */
+  margin: 0 auto;
+  /* выше для экранов больше 1600px отцентрировали весь контент */
+  font-family: 'Inter', 'Arial', sans-serif;
+  color: #000000;
+  text-decoration: none;
+}

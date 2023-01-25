@@ -1,0 +1,14 @@
+.resources {
+    display: flex;
+    font-family: 'Inter', 'Arial', sans-serif;
+    font-style: normal;
+    color: #000000;
+    background: #FFFFFF;
+    align-items: center;
+    padding-top: 100px;
+    padding-bottom: 217px;
+    flex-direction: column;
+    position: relative;
+    justify-content: center;
+    margin: 0;
+}

@@ -1,0 +1,14 @@
+.section-subtitle {
+    display: flex;
+    font-family: 'Inter', 'Arial', sans-serif;
+    font-style: normal;
+    color: #000000;
+    line-height: 34px;
+    font-size: 24px;
+    font-style: normal;
+    width: 60%;
+    position: relative;
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+}

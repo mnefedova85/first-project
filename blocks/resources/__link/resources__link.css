@@ -1,0 +1,10 @@
+.resources__link {
+    display: flex;
+    align-items: stretch;
+    justify-content: center;
+    align-self: stretch;
+    flex-grow: 1;
+    width: 270px;
+    max-height: 38px;
+    overflow: hidden;
+}

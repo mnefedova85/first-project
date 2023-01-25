@@ -1,0 +1,10 @@
+.two-columns {
+    display: flex;
+    font-family: 'Inter', 'Arial', sans-serif;
+    font-style: normal;
+    color: #000000;
+    justify-content: space-between;
+    flex-direction: row;
+    position: relative;
+    width: 80%;
+}

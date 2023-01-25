@@ -1,0 +1,14 @@
+.khan {
+    display: flex;
+    font-family: 'Inter', 'Arial', sans-serif;
+    font-style: normal;
+    color: #000000;
+    background: #FFFFFF;
+    align-items: flex-start;
+    padding-top: 100px;
+    flex-direction: column;
+    margin: auto;
+    width: 80%;
+    position: relative;
+    justify-content: flex-start;
+}

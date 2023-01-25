@@ -1,0 +1,13 @@
+.table {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    overflow-wrap: break-word;
+    padding: 0;
+    font-family: 'Inter', 'Arial', sans-serif;
+    font-style: normal;
+    color: #000000;
+    width: 1100px;
+    bottom: 100px;
+}

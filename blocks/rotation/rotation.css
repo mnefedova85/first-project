@@ -1,0 +1,17 @@
+.header__square-pic:hover {
+    transform: rotate(360deg);
+}
+
+.header__square-pic:hover {
+    transition: transform 20s linear;
+}
+
+@keyframes rotation {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}

@@ -1,0 +1,10 @@
+.discription {
+    display: flex;
+    position: relative;
+    font-family: 'Inter', 'Arial', sans-serif;
+    font-style: normal;
+    color: #000000;
+    padding-top: 100px;
+    background: white;
+    justify-content: center;
+}

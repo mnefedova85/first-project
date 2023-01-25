@@ -1,0 +1,11 @@
+.video__iframe ::before {
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    overflow: hidden;
+    border: 0px;
+}
+
+.video__iframe {
+    margin-right: 20px;
+}
